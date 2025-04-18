@@ -14,4 +14,4 @@ Learn how to set up Active Directory using Oracle VM, Splunk, and simulate attac
 - Kali Linux
 
 <h2>Walk-through</h2>
-[image alt](https://github.com/user-attachments/assets/7910b6d3-0222-4070-878d-84788f86e90f)
+(https://github.com/user-attachments/assets/7910b6d3-0222-4070-878d-84788f86e90f)
