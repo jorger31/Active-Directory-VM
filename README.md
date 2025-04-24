@@ -18,6 +18,8 @@ The purpose of this project is to create a realistic and controlled Active Direc
 - Kali Linux
 - Splunk
 - Oracle VirtualBox
+- Atomic Red Team
+- Sysmon
 
 <h2>Steps</h2>
 
